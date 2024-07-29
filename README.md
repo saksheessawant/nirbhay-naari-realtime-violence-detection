@@ -1,4 +1,4 @@
-Here's a sample README file for your project:
+Here’s a revised and formatted README file for your project:
 
 ---
 
@@ -45,7 +45,9 @@ The Nirbhay Naari project aims to develop a reliable, robust, and accurate model
 - **Random Forest:** Utilized for ensemble decision-making in audio classification.
 
 **Flowcharts:**
-- Flowcharts detailing the workings of various modules and the overall system can be found in the project's documentation.
+- Block diagram and modular diagram of the project:
+  ![Block Diagram](https://github.com/user-attachments/assets/e6932ec8-58d6-4a9b-af60-35a305ba96dc)
+  ![Modular Diagram](https://github.com/user-attachments/assets/98dd4c2b-6b1f-4ec7-b897-5f8b31a3afbd)
 
 ### 5.3 Dataset Source and Utilization
 
@@ -85,70 +87,39 @@ The Nirbhay Naari project aims to develop a reliable, robust, and accurate model
    python manage.py runserver
    ```
 
-SCREENSHOTS OF USER INTERFACE (UI) FOR RESPECTIVE MODULE
+## Screenshots of User Interface (UI) for Respective Modules
 
- <img width="477" alt="image" src="https://github.com/user-attachments/assets/1608d53a-b6ab-4686-807d-02e67f4c24f0">
+- **Homepage of Portal:**
+  ![Homepage](https://github.com/user-attachments/assets/1608d53a-b6ab-4686-807d-02e67f4c24f0)
+  
+- **Additional Functionalities:**
+  ![Additional Functionalities 1](https://github.com/user-attachments/assets/78576d41-f903-417b-9a8f-97fc896f46f9)
+  ![Additional Functionalities 2](https://github.com/user-attachments/assets/9ebbfb53-65bd-4f44-a35e-c337ebbf087d)
 
-Fig 12. Homepage of portal “Nirbhaya Naari”
+- **Section for Victim to Provide Audio/Video Proof:**
+  ![Audio/Video Proof](https://github.com/user-attachments/assets/56bfce73-8ba3-495c-8dc1-e3011fb0506c)
 
-<img width="477" alt="image" src="https://github.com/user-attachments/assets/78576d41-f903-417b-9a8f-97fc896f46f9">
+- **Model Accuracy Display:**
+  ![Model Accuracy](https://github.com/user-attachments/assets/8861bef6-84d0-44bf-9aa4-789a663c1d89)
 
- 
-Fig 13. Additional functionalities of our portal
+- **Story Narration Section:**
+  ![Story Narration](https://github.com/user-attachments/assets/17cc3418-7204-4575-991d-c42300fe8b34)
 
- <img width="441" alt="image" src="https://github.com/user-attachments/assets/9ebbfb53-65bd-4f44-a35e-c337ebbf087d">
+- **Output Depicting Violence Type:**
+  ![Violence Type](https://github.com/user-attachments/assets/59b62d8d-bd7e-47f5-b457-c50e905be585)
 
-Fig 14. Additional functionalities of our portal
+- **Video Proof Upload Section:**
+  ![Video Proof](https://github.com/user-attachments/assets/9a38c8f8-f369-4ac2-b574-c804622ec8c8)
 
- <img width="441" alt="image" src="https://github.com/user-attachments/assets/56bfce73-8ba3-495c-8dc1-e3011fb0506c">
+- **Portal Detecting Violence Presence:**
+  ![Violence Detection](https://github.com/user-attachments/assets/3e82412a-103e-45d3-857f-5bbe1cb13eac)
 
-Fig 15. Section for victim to provide audio/video proof of her violence
+- **Contact Us Page:**
+  ![Contact Us](https://github.com/user-attachments/assets/82815b90-3948-4fb8-b6bf-12f75e26dcba)
 
+- **Live Coordinates Sharing with Emergency Contact:**
+  ![Live Coordinates](https://github.com/user-attachments/assets/1c0d21a1-3b13-418e-905c-48d547fdfc59)
 
-<img width="435" alt="image" src="https://github.com/user-attachments/assets/8861bef6-84d0-44bf-9aa4-789a663c1d89">
-
- 
-Fig 16. Section displaying the accuracy of our models
-
-
-<img width="436" alt="image" src="https://github.com/user-attachments/assets/17cc3418-7204-4575-991d-c42300fe8b34">
-
-
-
- 
-Fig 17. Section for victim to write or narrate the story
-
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/59b62d8d-bd7e-47f5-b457-c50e905be585">
-
- 
-Fig 18. Output depicting the type of violence after narration of story
-
-
-
-
- <img width="477" alt="image" src="https://github.com/user-attachments/assets/9a38c8f8-f369-4ac2-b574-c804622ec8c8">
-
-Fig 19. Section for victim to upload a video proof of her abuse
-
-<img width="465" alt="image" src="https://github.com/user-attachments/assets/3e82412a-103e-45d3-857f-5bbe1cb13eac">
-
- 
-Fig 20. Portal detecting the presence of violence 
-
-<img width="435" alt="image" src="https://github.com/user-attachments/assets/82815b90-3948-4fb8-b6bf-12f75e26dcba">
-
- 
-Fig 21. Let’s get in touch or Contact us page
-
-
- <img width="435" alt="image" src="https://github.com/user-attachments/assets/1c0d21a1-3b13-418e-905c-48d547fdfc59">
-
-Fig 22. Sharing live coordinates of victim with her emergency contact
-
-
-<img width="130" alt="image" src="https://github.com/user-attachments/assets/8154214d-7633-4111-a32f-0682c7dbdaaf">
-
- 
-Fig 23. Message shared with the emergency contact of  the victim
-![image](https://github.com/user-attachments/assets/226e70ec-79a5-4f20-9d29-7b33537561fa)
+- **Message to Emergency Contact:**
+  ![Message to Emergency Contact](https://github.com/user-attachments/assets/8154214d-7633-4111-a32f-0682c7dbdaaf)
 
