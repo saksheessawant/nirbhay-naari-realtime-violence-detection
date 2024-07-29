@@ -1,6 +1,4 @@
-Here’s a revised and formatted README file for your project:
 
----
 
 # Nirbhay Naari - An Artificial Intelligence Tool for Detection of Crime Against Women
 
