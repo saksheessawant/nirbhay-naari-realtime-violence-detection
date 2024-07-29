@@ -121,5 +121,6 @@ The Nirbhay Naari project aims to develop a reliable, robust, and accurate model
   ![Live Coordinates](https://github.com/user-attachments/assets/1c0d21a1-3b13-418e-905c-48d547fdfc59)
 
 - **Message to Emergency Contact:**
+
   ![Message to Emergency Contact](https://github.com/user-attachments/assets/8154214d-7633-4111-a32f-0682c7dbdaaf)
 
